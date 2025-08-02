@@ -1,0 +1,243 @@
+Agency,Commendation or Complaint,Subject Matter,Subject Detail,Issue Detail,Year,Quarter,Branch/Line/Route
+Buses,Complaint,Employee,Bus Operator / Driver,Operating Performance,2019,4,Bx28
+Buses,Complaint,Bus,,Appearance / Cleanliness,2019,4,S74
+Buses,Complaint,Service,Scheduled Service,Operating Conditions / Availability,2019,4,B47
+Buses,Complaint,Employee,Bus Operator / Driver,Customer Service / Behavior,2019,4,Q23
+Buses,Complaint,Bus,Bus Stop,Security / Police Matters,2019,4,Q70-SBS
+Buses,Complaint,Employee,Bus Operator / Driver,Operating Safety,2019,4,Q54
+Buses,Complaint,Customer,,Customer Actions / Behavior,2019,4,Q83-LTD
+Buses,Complaint,Bus,Customer Information Screen,Announcements / Messages,2019,4,M34-SBS
+Buses,Complaint,Service,Operating Conditions / Availability,Late / Delay,2019,4,B43
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Other,2019,4,M11
+NYC Buses,Complaint,Buses,Advertisements,Ad Content,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,Add More / Not Enough,2019,4,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Website,Accuracy / Correctness - Visual / Text,2019,4,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Missed Connection,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Rude / Inappropriate Language,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Station - General,Homeless Present,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Waiting Room / Area,Closed / Not Open / Locked,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Escalator,Not Working / Out of Service,2019,4,No Value
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Crowding,2019,4,Long Beach
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Station - General,Duration of Construction,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Track / Right-of-Way,Litter / Garbage / Debris,2019,4,Long Beach
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Staircase,Smoke / Fumes / Smell / Odor,2019,4,City Terminal Zone
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Equipment Breakdown,2019,4,Montauk
+Long Island Rail Road,Complaint,Trains,Train - General,Graffiti,2019,4,No Value
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Too Cold,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Escalator,Accessibility Due To Construction,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Station - General,Volume Too High - Audio,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Pedestrian Overpass / Underpass,Pigeons / Birds,2019,4,City Terminal Zone
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Website,No Announcement / Messages - Visual/Text,2019,4,Port Washington
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Bumpy Ride / Vibrations,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Late / Delay Current,2019,4,Hempstead
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Public Address System,Improper Function/Needs Repair/Damaged,2019,4,No Value
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Refund,2019,4,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Failure To Make Scheduled Stop,2019,4,Port Washington
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Processing Fee,2019,4,No Value
+Long Island Rail Road,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Not Received,2019,4,No Value
+Long Island Rail Road,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Not Eligible / Account Suspended,2019,4,No Value
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Unauthorized / Criminal Activity,2019,4,Port Washington
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Mobile App,Completeness / Sufficiency - Visual/Text,2019,4,No Value
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Website,Incorrect Information Displayed,2019,4,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Alternate / Substitute Bus,Early,2019,4,Montauk
+Long Island Rail Road,Complaint,Employees,Train Conductor,Fare Not Collected,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Platforms,Volume Too High,2019,4,Long Beach
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Track Change,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Did Not Correct Conduct of Passenger,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Employees,Train Conductor,Lack of Information,2019,4,No Value
+Long Island Rail Road,Complaint,Schedules / Reservations,Schedules,Planned Track Work,2019,4,Montauk
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Difficulty Boarding / Entering,2019,4,No Value
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Website,Cannot Access / Modify Account,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Not Seen / Not Available,2019,4,Port Washington
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Track / Right-of-Way,Track / Right-of-Way,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Employees,Train Conductor,Closed Door Before Customer Could Board,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Employees,Train Conductor,Incorrect Fare Charged,2019,4,Oyster Bay
+Long Island Rail Road,Complaint,Employees,Train Conductor,Incorrect Change Given,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Leaking / Wet,2019,4,Montauk
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Cancelled,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Major Service Disruption,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Grade Crossing,Traffic Delays,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,No Announcement / Messages - Audio,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Waiting Room / Area,Clarity - Audio,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,No Ticket / Receipt Printed,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Not Helpful,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Operator / Engineer,Overshot Platform,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Cancelled/Combined,2019,4,Babylon
+Long Island Rail Road,Complaint,Employees,Agency Car / Truck Driver,Reckless Driving,2019,4,No Value
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Expired Ticket,2019,4,No Value
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Difficulty Leaving / Exiting,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Closed Door Before Customer Could Exit,2019,4,Babylon
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Parking Lot,Drainage,2019,4,Babylon
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Platforms,Dead Animals,2019,4,Far Rockaway
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Social Media,Disconnected,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Published Schedules,Schedule Change,2019,4,Ronkonkoma
+Long Island Rail Road,Complaint,Employees,Bus Operator / Driver,Cell Phone,2019,4,Montauk
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,A/C Not Available,2019,4,Far Rockaway
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Website,Not working / Out of service,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,Payment Card / Payment Not Accepted,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Frequency - Audio,2019,4,Port Washington
+Long Island Rail Road,Complaint,Employees,Ticket Clerk / Station Agent,Very Helpful / Friendly,2019,4,City Terminal Zone
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,Volume Too Low,2019,4,No Value
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Website,Information Not Available,2019,4,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Website,Timeliness - Visual / Text,2019,4,No Value
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Proposed Fare / Toll Change,2019,4,No Value
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Validity / Expiration,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Non-Work Related Distractions,2019,4,Montauk
+Long Island Rail Road,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Tickets / Permit Not Delivered On Time,2019,4,No Value
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Too Hot,2019,4,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Alternate / Substitute Bus,Planned Detour,2019,4,Montauk
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Platforms,Snow / Ice,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Caught In Closing Door,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Train - General,No Show,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Heat Not Available,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Ticket Not Properly Serviced,2019,4,No Value
+Long Island Rail Road,Complaint,Trains,Train - General,Other Animals,2019,4,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Platforms,Clarity - Visual / Text,2019,4,Montauk
+Long Island Rail Road,Complaint,Trains,Lighting,Too Bright,2019,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Completeness / Sufficiency - Audio,2019,4,Far Rockaway
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Insects,2019,4,Port Washington
+Long Island Rail Road,Complaint,Employees,Train Conductor,Neatness / Personal Appearance,2019,4,Port Jefferson
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Roads,Potholes,2019,4,Long Beach
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,Wrong Ticket,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,Hard To Read,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Platforms,Timeliness - Audio,2019,4,No Value
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Fare To Toll Too High,2019,4,No Value
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Policies,Fees,2019,4,Hempstead
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Signage,Blocked,2019,4,City Terminal Zone
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,Incorrect Change Dispensed,2019,4,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Comfort,Station - General,2019,4,
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Operating Conditions / Availability,Ticket Machines,2019,4,
+Metro-North Railroad,Complaint,Employees,Train Conductor,Ticket Not Collected,2019,4,New Haven
+Metro-North Railroad,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Lost or Stolen Ticket / MetroCard,2019,4,No Value
+Metro-North Railroad,Complaint,Telephone / Website / Mobile Apps,Website,User Friendly,2019,4,No Value
+Metro-North Railroad,Complaint,Employees,Train Conductor,Ticket / Badge Not Honored,2019,4,Hudson
+Metro-North Railroad,Complaint,Telephone / Website / Mobile Apps,Social Media,Frequency - Visual / Text,2019,4,No Value
+Metro-North Railroad,Complaint,Station /Bus Stop /Facility /Structure,Lighting,Too Dark,2019,4,Hudson
+Metro-North Railroad,Complaint,Employees,Ticket Clerk / Station Agent,Wrong MetroCard/ticket sold,2019,4,New Haven
+Metro-North Railroad,Complaint,Employees,Train Operator / Engineer,Abandoned Customer at Station/Stop,2019,4,Hudson
+Metro-North Railroad,Complaint,Station /Bus Stop /Facility /Structure,Bike Racks,Abandoned Bikes,2019,4,New Haven
+Metro-North Railroad,Complaint,Employees,Bus Operator / Driver,Lost While Driving,2019,4,Harlem
+MTA Corporate Office,Complaint,Employees,Employee Actions / Behavior,Police Officer / Law Enforcement,2019,4,
+MTA Corporate Office,Complaint,Telephone / Website / Mobile Apps,Appearance / Cleanliness,Website,2019,4,
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Idling,2019,4,B15
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Did not let disabled customer board,2019,4,M102
+NYC Buses,Complaint,Employees,Police Officer / Law Enforcement,Summons / Violation,2019,4,S91
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Curbing,2019,4,Q27
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Not regulating service properly,2019,4,B61
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Denied access to service animal,2019,4,Bx29
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Bypassed Requested Stop,2019,4,M103
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Illegal Parking,2019,4,Q39
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Bypassed Wheelchair,2019,4,Q69
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Slow Driving,2019,4,M20
+NYC Buses,Complaint,Travel Disruption / Trip Problem,Bus / Vehicle - General,Bunching,2019,4,M14A
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Terminated Route Early,2019,4,Q1
+NYC Buses,Complaint,Buses,Bus / Vehicle - General,Accuracy / Correctness - Audio,2019,4,M79-SBS
+NYC Buses,Complaint,Employees,Dispatcher,Not helpful,2019,4,BxM3
+NYC Buses,Complaint,Buses,Bus / Vehicle - General,Fare Evasion,2019,4,M14A-SBS
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Intent To Harm / Intimidate,2019,4,Q7
+NYC Buses,Complaint,Station /Bus Stop /Facility /Structure,Bus Stop,Bus Stop,2019,4,SIM1C
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Failed to provide satisfactory service to persons with disabilities,2019,4,Q102
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Did not kneel/curb bus to facilitate boarding,2019,4,Q50-LTD
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Refused to deploy lift (non-wheelchair),2019,4,B38
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Abandoned bus (intentional),2019,4,M34A-SBS
+NYC Buses,Complaint,Station /Bus Stop /Facility /Structure,Bus Stop,Accessibility due to construction,2019,4,BxM1
+NYC Buses,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Damaged / Defective,2019,4,Q53-SBS
+NYC Buses,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,Additional Fare Taken,2019,4,M15-SBS
+NYC Buses,Complaint,Buses,Bus / Vehicle - General,Vehicle Breakdown,2019,4,SIM5
+NYC Buses,Complaint,Employees,Dispatcher,Assaulted by employee,2019,4,S48
+NYC Buses,Complaint,Buses,Farebox,Money / Ticket Not Returned,2019,4,M1
+NYC Buses,Complaint,Employees,Dispatcher,Intent to harm/intimidate,2019,4,No Value
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Departed before mobility customer was secure,2019,4,M15-SBS
+NYC Buses,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Insufficient Fare,2019,4,SIM10
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Failed to Secure Wheelchair,2019,4,M60-SBS
+NYC Buses,Complaint,Employees,Dispatcher,Non-work related distractions,2019,4,Bx12-SBS
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Sleeping,2019,4,Bx42
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Requested documentation for service animal,2019,4,Bx40
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Did not adjust boarding location,2019,4,B44
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Operating Conditions / Availability,Needs Repair / Damaged / Not Working,2019,4,Q
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Operating Conditions / Availability,Website Status Incorrect,2019,4,2
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Turnstiles,Error Message - Swipe Again,2019,4,L
+Subways,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,MetroCard Balance Protection,2019,4,C
+Subways,Complaint,Travel Disruption / Trip Problem,Train - General,Late / Delay Past,2019,4,D
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Turnstiles,Error Message - Just Used,2019,4,R
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Station Gates,Stuck,2019,4,E
+Subways,Complaint,Travel Disruption / Trip Problem,Station - General,Completeness / Sufficiency - Visual / Text,2019,4,D
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Clock,Incorrrect Information Displayed,2019,4,F
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Elevators,Dark,2019,4,F
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Station - General,Bad Mess / Spill,2019,4,A
+Subways,Complaint,Employees,Ticket Clerk / Station Agent,Refused to waive fare for personal care attendent,2019,4,A
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Platform,Accuracy / Correctness - Visual/Text,2019,4,B
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Ticket Office / Station Booth,Not All Tickets Available,2019,4,No Value
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Clock,Hard to Read,2019,4,7
+Subways,Complaint,Employees,CSR Customer Service Office ( E&C ),Not satisfied with response,2019,4,No Value
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Station Gates,Closed,2019,4,L
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Clock,Timeliness - Visual/Text,2019,4,Q
+Subways,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Expired Card / Too Soon,2019,4,No Value
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Other,Unauthorized or criminal activity,2019,4,5
+Subways,Complaint,Employees,Train Operator / Engineer,Unable To Exit At Station / Stop,2019,4,1
+Subways,Complaint,Employees,Police Officer / Law Enforcement,Wrong Sumons Issued,2019,4,4
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Station - General,Obstruction,2019,4,4
+Subways,Complaint,Employees,Train Operator / Engineer,Not Seen/Not Available,2019,4,S-42nd Street Shuttle
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Platforms,Gap Issue,2019,4,6
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Platform,No Announcement / Message - Visual/Text,2019,4,B
+Subways,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Error Message - See Agent,2019,4,No Value
+Subways,Complaint,"Policies, Rules & Regulations",Fare / Toll Policy,Transfer Policy,2019,4,No Value
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Platform,Volume too High - Audio,2019,4,No Value
+Buses,Complaint,Bus Operator / Driver,Complaint,No Value,2019,3,No Value
+Long Island Rail Road,Complaint,Trains,"Doors (Train, Bus, Facility)",Open Off Platform,2019,3,Babylon
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Station - General,No Restroom,2019,3,No Value
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Bicycles,Bike Exclusion Periiods,2019,3,Ronkonkoma
+Long Island Rail Road,Complaint,Trains,Rail / Subway Cars,Size,2019,3,No Value
+Long Island Rail Road,Complaint,Travel Disruption / Trip Problem,Website,Completeness / Sufficiency - Visual / Te,2019,3,No Value
+Metro-North Railroad,Complaint,Station /Bus Stop /Facility /Structure,Track/Right-of-Way,Vibrations,2019,3,New Haven
+NYC Buses,Complaint,Station /Bus Stop /Facility /Structure,Customer Shelter,Debris,2019,3,M2
+NYC Buses,Complaint,Station /Bus Stop /Facility /Structure,Advertisements,Offensive Advertising,2019,3,No Value
+NYC Buses,Complaint,Employees,Dispatcher,other,2019,3,Q111
+NYC Buses,Complaint,Employees,Dispatcher,Not seen/not available,2019,3,M15-SBS
+NYC Buses,Complaint,Employees,Dispatcher,Lack of information,2019,3,M7
+NYC Buses,Complaint,Employees,Dispatcher,add more / not enough,2019,3,M10
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Refused to deploy lift,2019,3,Q23
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Insists on securing mobility device,2019,3,No Value
+NYC Buses,Complaint,Buses,Bus / Vehicle - General,No annoucement / messages - Audio,2019,3,SIM1C
+NYC Buses,Complaint,Buses,Bus / Vehicle - General,No annoucement / messages - Visual / Text,2019,3,SIM1
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Did not announce routes/ stops,2019,3,B60
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Clock,Accuracy/Correctness - Audio,2019,3,No Value
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Platform,Volume too Low - Audio,2019,3,N
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Station - General,Sexual Harassment,2019,3,R
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Station - General,Volume Too Low - Audio,2019,3,B
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,EBT (Public Benefit/Supplement),2019,3,No Value
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Ticket Machines,Wrong Card Returned,2019,3,4
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Turnstiles,AutoGate not accessible,2019,3,F
+Subways,Complaint,Telephone / Website / Mobile Apps,Website,Information Not Available (Elevator),2019,3,No Value
+Subways,Complaint,Trains,Rail / Subway Cars,Other - Automated Annc,2019,3,E
+Subways,Complaint,Employees,CSR - Telephone,Call Terminated/Hung Up,2019,3,No Value
+Subways,Complaint,Employees,Ticket Clerk / Station Agent,Failed To ID Self,2019,3,4
+Subways,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Wrong Amount Added,2019,3,1
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Telephone Systems,Busy Signals,2019,2,No Value
+Long Island Rail Road,Complaint,Telephone / Website / Mobile Apps,Telephone Systems,Voice Recognition,2019,2,No Value
+NYC Buses,Complaint,Buses,Bus / Vehicle - General,Completeness / Sufficiency - Visual/Test,2019,2,M72
+NYC Buses,Complaint,Employees,Bar/Special Services Attendant,Rude/Inappropriate Language,2019,2,B44-SBS
+NYC Buses,Complaint,Employees,CSR Customer Service Office ( E&C ),Received Wrong Response,2019,2,No Value
+Subways,Complaint,Employees,Maintenance Staff,Slow Performance,2019,2,F
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Clock,Clarity - Visual/Text,2019,2,No Value
+Subways,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Combining Multiple Tickets,2019,2,No Value
+Long Island Rail Road,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Ticket / Permit Suspended,2019,1,No Value
+Long Island Rail Road,Complaint,Station /Bus Stop /Facility /Structure,Parking Lot,Abandoned Cars,2019,1,Port Jefferson
+NYC Buses,Complaint,Buses,Bus / Vehicle - General,Long Ride,2019,1,Shuttle Bus/Alternate Bus
+Long Island Rail Road,Complaint,Schedules / Reservations,Schedules,Group Travel/Tours,2018,4,No Value
+NYC Buses,Complaint,Employees,Other,Very Helpful/Friendly,2018,4,No Value
+Subways,Complaint,Employees,Train Conductor,Did not provide alternative ADA travel info,2018,4,A
+Subways,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Deferred Toll Payment,Non-MTA Agency,2018,4,No Value
+Long Island Rail Road,Complaint,Employees,Train Conductor,Receipt or Ticket Not Given,2018,3,Port Jefferson
+NYC Buses,Complaint,Employees,Bus Operator / Driver,Refused Lift,2018,3,Bx27
+NYC Buses,Complaint,Station /Bus Stop /Facility /Structure,Lighting,Bright,2018,3,No Value
+Subways,Complaint,Station /Bus Stop /Facility /Structure,Track / Right-of-Way,Abandoned Rail / Subway Cars,2018,3,6
+Long Island Rail Road,Complaint,Schedules / Reservations,Schedules,Hamptons Reserve,2018,2,Montauk
+Metro-North Railroad,Complaint,Station /Bus Stop /Facility /Structure,Clock,Late,2018,2,New Haven
+Subways,Complaint,Employees,Platform Controller,Rude Inappropriate Language,2018,2,C
+NYC Buses,Complaint,Travel Disruption / Trip Problem,Bus / Vehicle - General,Failure to make scheduled stop,2018,1,B103
+Long Island Rail Road,Complaint,"Policies, Rules & Regulations",Bicycles,Bikes-Per-Car Restrictions,2017,4,No Value
+NYC Buses,Complaint,Employees,Dispatcher,Failed to ID Self,2017,4,M15 SBS
+NYC Buses,Complaint,Buses,Alternate / Substitute Bus,Trip Cancelled,2017,4,No Value
+Long Island Rail Road,Complaint,MetroCard/Tickets/E-Zpass & Tolls,Tickets,Tickets Cannot Be Printed At Home,2017,1,No Value
+NYC Buses,Complaint,Employees,Maintenance Staff,Trespass,2016,1,No Value
