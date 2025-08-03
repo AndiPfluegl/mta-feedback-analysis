@@ -3,7 +3,7 @@
 This repository contains a pipeline for processing, exploring, and modeling customer feedback data from the MTA. 
 A reduced form of the MTA-Dataset (about 223.000) is found at data/MTA_Customer_Feedback_Data.csv.
 
-The repository includes the following python scripts at scripts/...:
+The repository includes the following python scripts at Scripts/...:
 
 * **Configuration** constants (`config.py`)
 * **Data loading & cleaning** (`data.py`, `preprocessing.py`)
