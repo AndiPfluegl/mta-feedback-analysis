@@ -2,12 +2,13 @@
 
 This repository contains a pipeline for processing, exploring, and modeling customer feedback data from the MTA. 
 A reduced form of the MTA-Dataset (about 223.000) is found at data/MTA_Customer_Feedback_Data.csv.
-The repository includes the following python scripts at scripts/:
+
+The repository includes the following python scripts at scripts/...:
 
 * **Configuration** constants (`config.py`)
 * **Data loading & cleaning** (`data.py`, `preprocessing.py`)
 * **Vectorization** methods (`vectorization.py`) including TF‑IDF, Word2Vec, and transformer embeddings
-* ** Full Training-Programme including topic modeling & clustering** (`main.py`) with LDA, NMF, KMeans, GMM, and BERTopic
+* **Full Training-Programme including topic modeling & clustering** (`main.py`) with LDA, NMF, KMeans, GMM, and BERTopic
 
 
 ## Installation
